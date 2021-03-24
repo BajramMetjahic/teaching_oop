@@ -1,2 +1,4 @@
 # teaching_oop
 A simple and fun game to teach children the basics of object-oriented programming in Python
+
+This is a simple game designed alongside some 5th-6th grade students I was tutoring in Python. First, I introduced them to the basic concepts of object-oriented programming and receiving user inputs in Python. Then I let the students help me design this game as for some reason, games seem to be the best way to get children interested and involved in coding. It's a cute little text-based fantasy RPG with super simple functionality and goofy prompts and messages. I would like to thank Seth Kenlon of opensource.com and Red Hat, whose article (https://opensource.com/article/19/7/get-modular-python-classes) served as the basis for this project - we built upon his code. I'll soon publish either some articles or videos showing how I taught object-oriented programming to get the students to this level but I'm kind of lazy right now.
